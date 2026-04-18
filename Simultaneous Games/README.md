@@ -8,3 +8,6 @@
     ```bash
     uv sync
     ```
+
+3. Para el notebook, selecciona el kernel asociado a ese mismo intérprete (si no aparece, puedes registrar uno con uv run python -m ipykernel install --user --name simultaneous-games y luego elegir “simultaneous-games” en el selector de kernel).
+
